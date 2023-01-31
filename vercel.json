@@ -1,0 +1,18 @@
+{
+  "env": {
+    "NEXT_PUBLIC_DEPLOYED_URL": "https://restrox-fullonline-backend-jstzp.ondigitalocean.app/restrox/api",
+    "NEXT_PUBLIC_BASE_URL": "https://restrox-fullonline-backend-jstzp.ondigitalocean.app",
+    "NEXT_PUBLIC_SITE_URL": "Put your site url here",
+    "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "Put your stripe public key here...",
+    "NEXT_PUBLIC_GOOGLE_API_KEY": "Put your google api key here"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_DEPLOYED_URL": "https://restrox-fullonline-backend-jstzp.ondigitalocean.app/restrox/api",
+      "NEXT_PUBLIC_BASE_URL": "https://restrox-fullonline-backend-jstzp.ondigitalocean.app",
+      "NEXT_PUBLIC_SITE_URL": "Put your site url here",
+      "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "Put your stripe public key here.",
+      "NEXT_PUBLIC_GOOGLE_API_KEY": "Put your google api key here"
+    }
+  }
+}
